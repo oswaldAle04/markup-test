@@ -1,0 +1,25 @@
+{
+  "name": "markup-test",
+  "version": "1.0.0",
+  "description": "Test to apply as a wordpress designer and developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "grunt"
+  },
+  "author": "Oswald Morales",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.9",
+    "grunt-babel": "^8.0.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-css-import": "^0.1.9"
+  },
+  "dependencies": {
+    "grunt": "^1.4.1",
+    "jquery": "^3.6.0",
+    "slick-carousel": "^1.8.1"
+  }
+}
