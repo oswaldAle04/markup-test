@@ -57,6 +57,11 @@
 .head__accessory--grey {
   background-color: #E7E7E7;
 }
+.head__pen-icon {
+  position: absolute;
+  right: 0;
+  bottom: -35%;
+}
 
 .carousel {
   padding-bottom: 101px;
@@ -144,6 +149,9 @@
     width: 228px;
     height: 25px;
     left: calc(50% - 114px);
+  }
+  .head__pen-icon {
+    display: none;
   }
 
   .carousel {
