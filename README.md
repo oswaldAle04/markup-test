@@ -8,7 +8,7 @@ ____________
 - You run public/index.html file then
 ____________
 
-### PERFORM
+### PERFORM CHANGES
 
 - Clone this repo
 - `cd markup-test`
